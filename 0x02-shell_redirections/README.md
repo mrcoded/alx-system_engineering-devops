@@ -13,3 +13,4 @@ script2 to prnt a confused smiley
 12-newest_files contains  a script that displays the 10 newest files in the current directory.
 13-unique contains a script that takes a list of words as input and prints only words that appear exactly once.
 14-findthatword contains a sript that Display lines containing the pattern “root” from the file /etc/passwd
+15-countthatword contains a script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd
