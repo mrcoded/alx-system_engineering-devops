@@ -21,3 +21,4 @@ script2 to prnt a confused smiley
 20-hiago contains a script that Create a script that removes all letters c and C from input.
 21-reverse contains a script that reverse its input.
 22-users_homes_and_users contains a script that displays all users and their home directories, sorted by users.
+100-empty_casks contains a command that finds all empty files and directories in the current directory and all sub-directories.
