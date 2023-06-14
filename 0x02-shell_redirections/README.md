@@ -18,3 +18,4 @@ script2 to prnt a confused smiley
 17-hidethisword contains a script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 18-letteronly contains a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ contains ascript that Replace all characters A and c from input to Z and e respectively.
+20-hiago contains a script that Create a script that removes all letters c and C from input.
