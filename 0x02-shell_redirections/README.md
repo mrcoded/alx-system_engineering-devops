@@ -7,3 +7,6 @@ script2 to prnt a confused smiley
 6-third_line contains script to show the third line of iacta file
 7-file contains script to display Best School
 8-cwd_state contains script to write into ls_cwd_content the result of the ls -la command
+9-duplicate_last_line contains a script that duplicates the last lines of iacta
+10-no_more_js a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+
