@@ -23,3 +23,5 @@ script2 to prnt a confused smiley
 22-users_homes_and_users contains a script that displays all users and their home directories, sorted by users.
 100-empty_casks contains a command that finds all empty files and directories in the current directory and all sub-directories.
 101-gifs contains  a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+102-acrostic contain a script that decodes acrostics that use the first letter of each line.
+103-the_biggest_fan contains a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
